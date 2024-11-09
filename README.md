@@ -5,6 +5,7 @@ I'm a second-year student who enjoys coding and exploring new technologies!
 
 - 🌍  Based in Waterloo
 - ✉️  Reach me at [archishhmehta@gmail.com](mailto:archishhmehta@gmail.com)
+- 🚀  I'm currently working on "Censtible" a finance budgeting app
 - 🤝  Open to collaborating on projects
 - ⚡  Fun fact: I found the missing semicolon!
 
