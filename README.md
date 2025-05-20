@@ -1,11 +1,11 @@
 # Hi there! ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Archish Mehta
 
 ### CS Student
-I'm a second-year student who enjoys coding and exploring new technologies!
+I'm a third-year student who enjoys coding and exploring new technologies!
 
 - 🌍  Based in Waterloo
 - ✉️  Reach me at [archishhmehta@gmail.com](mailto:archishhmehta@gmail.com)
-- 🚀  I'm currently working on "Censtible" a finance budgeting app
+- 🚀  I'm currently working on "Verdantia" an open world adventure game
 - 🤝  Open to collaborating on projects
 - ⚡  Fun fact: I found the missing semicolon!
 
