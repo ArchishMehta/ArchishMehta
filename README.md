@@ -5,7 +5,7 @@ I'm a third-year student who enjoys coding and exploring new technologies!
 
 - 🌍  Based in Waterloo
 - ✉️  Reach me at [archishhmehta@gmail.com](mailto:archishhmehta@gmail.com)
-- 🚀  I'm currently working on "Verdantia" an open world adventure RPG game
+- 🚀  I'm currently working on "Verdantia" an open world adventure game
 - 🤝  Open to collaborating on projects
 - ⚡  Fun fact: I found the missing semicolon!
 
